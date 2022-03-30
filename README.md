@@ -1,10 +1,9 @@
 ### Hi there 👋
+<!--
+**wraja899/wraja899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" />
 <img src="https://c.tenor.com/28FrkXCaR1oAAAAd/programming-multitasking.gif" />
 <img src="https://pics.me.me/you-vs-the-guy-she-tells-you-not-to-worry-44624691.png" />
-<!--
-**wraja899/wraja899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
